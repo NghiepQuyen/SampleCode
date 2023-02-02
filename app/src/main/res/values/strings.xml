@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">技術</string>
+    <string name="btn_ok">確定</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_clean">清空</string>
+    <string name="btn_print">列印</string>
+    <string name="tt_hangmuc">項目</string>
+    <string name="tt_mvl">料號</string>
+    <string name="tt_ten">物料名稱</string>
+    <string name="tt_quycach">規格</string>
+    <string name="tt_kho">倉庫</string>
+    <string name="tt_solo">批號</string>
+    <string name="tt_soluong">數量</string>
+
+    /*Menu Button*/
+    <string name="btn_KT01">設備管理稽核評分表 </string>
+    <string name="btn_KT02">(週)柴油堆高機檢查稽查表</string>
+    <string name="btn_KT03">廢水站操作日誌</string>
+    <string name="btn_KT04">廢水水質自動,連續監測站操作日記</string>
+    <string name="Change_Data">更新報表項目</string>
+
+
+    /* activity_main */
+    <string name="main_id">帳號：</string>
+    <string name="main_pwd">密碼：</string>
+    <string name="main_ok">確定</string>
+    <string name="main_cancel">取消</string>
+    <string name="main_E01">請輸入帳號</string>
+    <string name="main_E02">帳號密碼錯誤</string>
+    <string name="main_E03">連線錯誤</string>
+    <string name="main_language">語言</string>
+    <string name="main_stay_logged">保持登入</string>
+
+    /*check version*/
+    <string name="ver_curr_version">當前版本: </string>
+    <string name="ver_new_version">新版本：</string>
+    <string name="ver_install">請安裝!</string>
+    <string name="ver_soft_update">軟件更新</string>
+    <string name="ver_update">更新</string>
+    <string name="ver_downloading">正在下載</string>
+    <string name="ver_please_wait">請稍後...</string>
+
+    <string name="E01">帳號密碼錯誤</string>
+    <string name="E02">連線錯誤</string>
+    <string name="E10">請輸入帳號</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kỹ Thuật</string>
+    <string name="btn_ok">Xác nhận</string>
+    <string name="btn_cancel">Hủy bỏ</string>
+    <string name="btn_clean">Làm trống</string>
+    <string name="btn_print">In</string>
+    <string name="tt_hangmuc">Hạng mục</string>
+    <string name="tt_mvl">Mã vật liệu</string>
+    <string name="tt_ten">Tên vật liệu</string>
+    <string name="tt_quycach">Quy cách</string>
+    <string name="tt_kho">Kho</string>
+    <string name="tt_solo">Số lô</string>
+    <string name="tt_soluong">Số lượng</string>
+
+    /*Menu Button*/
+    <string name="btn_KT01">BIỂU ĐIỂM KHẢO HẠCH QUẢN LÝ THIẾT BỊ</string>
+    <string name="btn_KT02">BIỂU GHI CHÉP  KIỂM TRA XE NÂNG DẦU (TUẦN)</string>
+    <string name="btn_KT03">NHẬT KÝ VẬN HÀNH TRẠM NƯỚC THẢI</string>
+    <string name="btn_KT04">NHẬT KÝ VẬN HÀNH TRẠM QUAN TRẮC NƯỚC THẢI</string>
+    <string name="Change_Data">Cập nhật dữ liệu hạng mục</string>
+
+    /* activity_main */
+    <string name="main_id">Tài khoản：</string>
+    <string name="main_pwd">Mật khẩu：</string>
+    <string name="main_ok">Xác nhận</string>
+    <string name="main_cancel">Hủy bỏ</string>
+    <string name="main_E01">Xin nhập số tài khoản</string>
+    <string name="main_E02">Tài khoản hoặc mật khẩu không đúng</string>
+    <string name="main_E03">Liên kết máy chủ thất bại</string>
+    <string name="main_language">Ngôn ngữ</string>
+    <string name="main_stay_logged">Lưu tài khoản</string>
+
+    /*check version*/
+    <string name="ver_curr_version">Phiên bản hiện tại : </string>
+    <string name="ver_new_version">Phiên bản mới：</string>
+    <string name="ver_install">Xin hãy cài đặt!</string>
+    <string name="ver_soft_update">Cập nhật phần mềm</string>
+    <string name="ver_update">Cập nhật</string>
+    <string name="ver_downloading">Đang cập nhật</string>
+    <string name="ver_please_wait">Xin đợi...</string>
+
+    <string name="E01">Tài khoản hoặc mật khẩu không đúng</string>
+    <string name="E02">Liên kết máy chủ thất bại</string>
+    <string name="E10">Xin nhập số tài khoản</string>
+
+
+</resources>

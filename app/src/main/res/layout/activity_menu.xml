@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#41A5E9"
+    android:orientation="vertical"
+    tools:context=".Menu">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:id="@+id/menuID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:hint="Name"
+            android:textSize="25sp" />
+
+    </LinearLayout>
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:stretchColumns="*"
+        android:shrinkColumns="*">
+
+        <TableRow>
+            <Button
+                android:id="@+id/btn_KT01"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_type1"
+                android:theme="@style/btn_text_style"
+                android:enabled="true"
+                android:text="@string/btn_KT01"
+                 />
+        </TableRow>
+
+        <TableRow>
+            <Button
+                android:id="@+id/btn_KT02"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_type1"
+                android:theme="@style/btn_text_style"
+                android:enabled="true"
+                android:text="@string/btn_KT02"/>
+        </TableRow>
+
+        <TableRow>
+            <Button
+                android:id="@+id/btn_KT03"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_type1"
+                android:theme="@style/btn_text_style"
+                android:enabled="true"
+                android:text="@string/btn_KT03"/>
+        </TableRow>
+
+        <TableRow>
+            <Button
+                android:id="@+id/btn_KT04"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_type1"
+                android:theme="@style/btn_text_style"
+                android:enabled="true"
+                android:text="@string/btn_KT04"/>
+        </TableRow>
+    </TableLayout>
+
+
+</LinearLayout>
